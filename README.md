@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Hello, my name is Federico Barreiro. I'm new in the IT world and i'am taking my first steps.
 I discovered the world of programming and I loved it.
 I'm studient in evolution. 
