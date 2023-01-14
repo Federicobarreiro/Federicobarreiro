@@ -22,9 +22,10 @@ JavaScript in Coderhouse.
 - 💬 Ask me about:
 I'm looking for my first job. I like to work in group, I'm a sociable person and I really want to learn.
 
+- Portfolio: www.federicobarreiro.com
 - 📱 Telephone: 54-02223-15429753
 - 📧 Mail: barreirofede777@gmail.com
 - Linkedin: www.linkedin.com/in/federicosebastianbarreiro
-- Portfolio: www.federicobarreiro.com
+
 
 
